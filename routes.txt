@@ -1,0 +1,10 @@
+       Prefix Verb   URI Pattern                   Controller#Action
+         root GET    /                             home#index
+    positions GET    /positions(.:format)          positions#index
+              POST   /positions(.:format)          positions#create
+ new_position GET    /positions/new(.:format)      positions#new
+edit_position GET    /positions/:id/edit(.:format) positions#edit
+     position GET    /positions/:id(.:format)      positions#show
+              PATCH  /positions/:id(.:format)      positions#update
+              PUT    /positions/:id(.:format)      positions#update
+              DELETE /positions/:id(.:format)      positions#destroy
