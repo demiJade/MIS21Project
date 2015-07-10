@@ -1,0 +1,12 @@
+In your app/assets/stylesheets, rename your application.css to application.scss
+•Empty your application.scss(or just remove all *= require lines) and put the following:
+@import ‘bootstrap-sprockets’;
+@import ‘bootstrap’;
+•In app/assets/javascript, add:
+//= require bootstrap-sprockets
+
+In your Gemfile, add the following:
+gem ‘bootstrap-sass’
+gem ‘simple_form’
+•In command line: bundle install
+•In command line: rails generate simple_form:install--bootstrap
