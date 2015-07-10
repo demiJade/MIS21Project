@@ -1,28 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I made this for our MIS project. To make it easier, you can clone it on your desktop by downloading the github for windows. What it does is that it merges all the things we add, but tells me when I need to intervene (like when you edit the same file or something) and when I need to manually merge it. I hope this works, lol :))).
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
