@@ -1,6 +1,6 @@
 == README
 
-I made this for our MIS project. To make it easier, you can clone it on your desktop by downloading the github for windows. What it does is that it merges all the things we add, but tells me when I need to intervene (like when you edit the same file or something) and when I need to manually merge it. I hope this works, lol :))).
+I made this for our MIS project. To make it easier, you can clone it on your desktop by downloading the github for windows. What it does is that it merges all the things we add, but tells me when I need to intervene (like when you edit the same file or something) and when I need to manually merge it. I hope this works, lol :))). Bootstrap and simple form have already been installed and initialized.
 
 
 
